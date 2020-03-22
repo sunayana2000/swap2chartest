@@ -49,3 +49,4 @@ String actual = s.swap("AABAA");
 assertEquals("BAA",actual);
 }
 }
+
